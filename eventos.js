@@ -7,4 +7,3 @@ saludodiv.addEventListener("click", function(){
 });
 });
 
-/*Realmente no tuve error, pero aconsejaría tener los manejadores de evento separados */

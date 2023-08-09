@@ -9,7 +9,7 @@
 <body>
     <div class="saludo" style="background-color: green;
     padding: 5px;">
-    <button onclick="alert('Hola!')">Saludar</button>
+    <button onclick="alert('Hola!'), event.stopPropagation()">Saludar</button>
 </div>
 </body>
 </html>
